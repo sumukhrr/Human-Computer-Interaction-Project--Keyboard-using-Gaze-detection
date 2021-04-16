@@ -1,0 +1,2 @@
+# Human-Computer-Interaction-Project--Keyboard-using-Gaze-detection
+As we know Human Computer Interaction is very important for our well being, our project Keyboard using Gaze detection is very useful for the handicapped people who cannot use conventional keyboard to type. We all should also remember the point that normal people who use the conventional keyboards may also get into some health issues due to continuous use of keyboard. So our project can be useful in these aspects. 
